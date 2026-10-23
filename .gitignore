@@ -1,0 +1,17 @@
+# Entorno virtual de Python
+.venv/
+venv/
+ENV/
+
+# Configuración interna de PyCharm
+.idea/
+
+# Archivos temporales que genera Python al ejecutar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
